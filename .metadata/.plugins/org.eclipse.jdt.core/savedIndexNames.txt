@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+C:\Users\vande\OneDrive\Área de Trabalho\Curriculum\FOCO PROFISSIONAL\projetos java\.metadata\.plugins\org.eclipse.jdt.core
+3700477597.index
+1549587.index
+349402646.index
+1865797976.index
